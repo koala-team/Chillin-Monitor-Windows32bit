@@ -1,0 +1,10 @@
+*.dll filter=lfs diff=lfs merge=lfs -text
+QtWebEngineProcess.exe filter=lfs diff=lfs merge=lfs -text
+bearer/** filter=lfs diff=lfs merge=lfs -text
+iconengines/** filter=lfs diff=lfs merge=lfs -text
+imageformats/** filter=lfs diff=lfs merge=lfs -text
+platforms/** filter=lfs diff=lfs merge=lfs -text
+position/** filter=lfs diff=lfs merge=lfs -text
+printsupport/** filter=lfs diff=lfs merge=lfs -text
+resources/** filter=lfs diff=lfs merge=lfs -text
+translations/** filter=lfs diff=lfs merge=lfs -text
